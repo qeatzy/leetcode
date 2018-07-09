@@ -1,0 +1,5 @@
+167. Two Sum II - Input array is sorted
+https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
+
+classic double pointer iteration, increment leftIndex if smaller, decrement
+rightIndex if larger, stop if match or cross.
